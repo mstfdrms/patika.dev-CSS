@@ -1,0 +1,48 @@
+.align {
+    text-align: center;
+}
+
+.body-box {
+    margin-top: 200px;
+}
+
+.div-gray {
+    background-color: rgb(235, 232, 232);
+}
+
+.bar {
+    width: 300px;
+}
+
+.green-1 {
+    background-color: aquamarine;
+    float: left;
+    width: 35%;
+    height: 150px;
+    line-height: 1.6;
+
+}
+
+.green-2 {
+    background-color: rgb(103, 206, 172);
+    float: left;
+    width: 20%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    height: 150px;
+    line-height: 2;
+}
+
+.green-3 {
+    background-color: rgb(81, 171, 141);
+    float: left;
+    width: 44%;
+    height: 150px;
+    line-height: 1.4;
+}
+
+.box-2 {
+    margin-top: 10px;
+    height: 150px;
+    ;
+}
